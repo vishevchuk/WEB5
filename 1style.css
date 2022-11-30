@@ -1,0 +1,56 @@
+@import url("https://oir.mobi/uploads/posts/2022-08/1661356918_27-oir-mobi-p-novogodnii-fon-dlya-afishi-pinterest-36.jpg");
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background: rgb(12, 80, 41);
+    text-align: center;
+    background: url(wwinter.jpg)40% 0%/cover;
+}
+h1 {
+    font-family: 'Rubik One', sans-serif;
+  font-size: 50px;
+  text-transform: uppercase;
+  text-shadow: -4px -4px 0px rgb(10, 52, 22);
+  background: repeating-linear-gradient(45deg, #5c1010, #6EB495 1px, white 2px, white 3px);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  display: table;
+  margin: 20px auto;
+    font-size: 42px;
+    text-align: center;
+}
+   
+b{
+    font-size: 2em;
+    background: linear-gradient(135deg, #1c4418 20%, #000000 70%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: inline-block;
+    padding: 0.3em 0.6em ;
+    border: 3px solid transparent;
+    border-image: linear-gradient(135deg, #053d24 20%, #308c22 70%);
+    border-image-slice: 1;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+    color: aliceblue;
+    margin-bottom: 10px;
+}
+.video {
+    text-align: center;
+    margin-bottom: 10px;
+
+}
+button {
+    display: inline-block; /* Строчно-блочный элемент */
+    background: rgb(248, 248, 248); /* Серый цвет фона */
+    color: red; /* Белый цвет текста */
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 1rem 1.5rem; /* Поля вокруг текста */
+    text-decoration: none; /* Убираем подчёркивание */
+    border-radius: 3px; /* Скругляем уголки */
+    border-color: aliceblue;
+   }
